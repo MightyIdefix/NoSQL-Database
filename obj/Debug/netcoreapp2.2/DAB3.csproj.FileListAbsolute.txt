@@ -1,0 +1,15 @@
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\DAB3.deps.json
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\DAB3.runtimeconfig.json
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\DAB3.runtimeconfig.dev.json
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\DAB3.dll
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\bin\Debug\netcoreapp2.2\DAB3.pdb
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.RazorAssemblyInfo.cache
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.RazorAssemblyInfo.cs
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.AssemblyInfoInputs.cache
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.AssemblyInfo.cs
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.RazorTargetAssemblyInfo.cache
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.dll
+C:\Users\Frederik\OneDrive - Aarhus universitet\Uni\4. Semester\DAB\Aflevering3\DAB3\obj\Debug\netcoreapp2.2\DAB3.pdb

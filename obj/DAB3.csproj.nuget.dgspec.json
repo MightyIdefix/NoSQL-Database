@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/NicFisker/Desktop/Alt/ingeniør AU/4.semester/Databaser/Afleveringer/Aflevering 3/NoSQL Database/DAB3.csproj": {}
+  },
+  "projects": {
+    "/Users/NicFisker/Desktop/Alt/ingeniør AU/4.semester/Databaser/Afleveringer/Aflevering 3/NoSQL Database/DAB3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/NicFisker/Desktop/Alt/ingeniør AU/4.semester/Databaser/Afleveringer/Aflevering 3/NoSQL Database/DAB3.csproj",
+        "projectName": "DAB3",
+        "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/4.semester/Databaser/Afleveringer/Aflevering 3/NoSQL Database/DAB3.csproj",
+        "packagesPath": "/Users/NicFisker/.nuget/packages/",
+        "outputPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/4.semester/Databaser/Afleveringer/Aflevering 3/NoSQL Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/NicFisker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "MongoDB.Driver.GridFS": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
